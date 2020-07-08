@@ -1,2 +1,2 @@
-# Flutter-BLOC
-Flutter BLOC apps
+# Flutter-BLoC
+Flutter BLoC apps
